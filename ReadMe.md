@@ -8,7 +8,7 @@
 
 
 ## Summary
-The code snippet is a Solidity smart contract called "FundMe" that allows users to fund the contract with Ether. It checks if the amount of Ether sent by the user meets a minimum value in USD before accepting the funds. The contract keeps track of the amount funded by each address and the list of funders. The contract also has a function to withdraw the funds, which can only be called by the contract owner.
+The code snippet is a Solidity smart contract called "FundIt" that allows users to fund the contract with Ether. It checks if the amount of Ether sent by the user meets a minimum value in USD before accepting the funds. The contract keeps track of the amount funded by each address and the list of funders. The contract also has a function to withdraw the funds, which can only be called by the contract owner.
 
 ## Example Usage
 ```solidity
